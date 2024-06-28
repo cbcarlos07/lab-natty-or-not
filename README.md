@@ -9,7 +9,6 @@
 
 ### Template
 
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 A partir do desafio escolher uma das tecnologias da IA Generativa e usar uma
 ## 📒 Descrição
@@ -25,10 +24,12 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 Prompt enviado: create one image of a musician programmer makeing a song about return of Jesus
 
+![<alt-text>]([<url-of-image>](https://github.com/cbcarlos07/lab-natty-or-not/blob/main/exemplos/a47f19d5-2da3-4ff0-8b77-d8cfa03d2e5a.png))
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É possível gerar imagens de alta qualidade apenas com texto
 
 ### Exemplos e Insigths
 

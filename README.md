@@ -23,6 +23,8 @@ Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+Prompt enviado: create one image of a musician programmer makeing a song about return of Jesus
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
